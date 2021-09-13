@@ -1,2 +1,2 @@
 # Juloup-s-Bot
-A cool python minecraft bot
+I will post here future update of Juloup's Bot
